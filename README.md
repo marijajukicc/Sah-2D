@@ -1,2 +1,2 @@
-# -ah-2D
+Sah-2D
 Projekt za računalnu grafiku
